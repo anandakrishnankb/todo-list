@@ -13,7 +13,7 @@ A simple web-based To-Do List application to help you organize and manage your t
 
 ## Usage
 
-1. Visit the [To-Do List App](https://example.com) website.
+1. Visit the https://anandakrishnankb.github.io/todo-list/ website.
 2. Start adding your tasks by typing them in the input field and selecting a due date.
 3. Click the "Add" button to add the task to your list.
 4. As you complete tasks, click the  "Delete" button next to it.
